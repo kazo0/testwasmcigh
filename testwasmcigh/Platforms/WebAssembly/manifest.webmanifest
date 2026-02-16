@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "testwasmcigh",
+  "display": "standalone",
+  "name": "testwasmcigh",
+  "short_name": "testwasmcigh",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
