@@ -33,4 +33,4 @@ jobs:
 
       - name: Build testwasmcigh (Debug)
         shell: pwsh
-        run: msbuild ./testwasmcigh/testwasmcigh.csproj /r
+        run: dotnet build ./testwasmcigh/testwasmcigh.csproj /r
